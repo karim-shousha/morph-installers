@@ -1,0 +1,297 @@
+{
+  "passed": true,
+  "repository": "karim-shousha/morph-installers",
+  "tag": "current-installers-2026-11-21",
+  "installersOnly": true,
+  "count": 41,
+  "bytes": 2232244349,
+  "assets": [
+    {
+      "file": "Cleaner-Android-1.1.324.apk",
+      "bytes": 488773,
+      "sha256": "0af0da80b2c2a25afc31c1a23a1b42c6ec38c49d827a965afa29974a9135acb9",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.324/Cleaner-Android-1.1.324.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Cleaner-Android-1.1.324.apk"
+    },
+    {
+      "file": "Cleaner-LG-1.1.416.ipk",
+      "bytes": 331168,
+      "sha256": "7d3c6bfaf06c2b0d8a7c5356fea592711fc52977b65ce437ebe7cb9a131a09eb",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.416/Cleaner-LG-1.1.416.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Cleaner-LG-1.1.416.ipk"
+    },
+    {
+      "file": "Cleaner-Samsung-Tizen2-and-newer-1.1.324.wgt",
+      "bytes": 320930,
+      "sha256": "753907f33d46e72767889111a3dacd06256e5f55ca04f385c3bac395a92f8935",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.324/Cleaner-Samsung-Tizen2-and-newer-1.1.324.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Cleaner-Samsung-Tizen2-and-newer-1.1.324.wgt"
+    },
+    {
+      "file": "Morph-Bridge-Android-TV-1.1.352.apk",
+      "bytes": 1408493,
+      "sha256": "756852d5335ce0d6d811e71a8edfaf3d98e3b8dda765cf0956623390f11c5f7b",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.352/Morph-Bridge-Android-TV-1.1.352.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Bridge-Android-TV-1.1.352.apk"
+    },
+    {
+      "file": "Morph-Bridge-LG-1.1.550.ipk",
+      "bytes": 857720,
+      "sha256": "d53512eff9e09cbef2dbb1b1203a69b510704e80073514e9109c98f49cd544e5",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/maintenance-v1.1.551/Morph-Bridge-LG-1.1.550.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Bridge-LG-1.1.550.ipk"
+    },
+    {
+      "file": "Morph-Bridge-Samsung-1.1.326.wgt",
+      "bytes": 818786,
+      "sha256": "2bf423ed5ae5c7b0b095d6ec5294f24fb77423e597e7703207f7f0f621466c37",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/samsung-v1.1.326/Morph-Bridge-Samsung-1.1.326.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Bridge-Samsung-1.1.326.wgt"
+    },
+    {
+      "file": "Morph-Games-Android-TV-0.59.apk",
+      "bytes": 64635203,
+      "sha256": "013d0dfb41ebf1c4900c7d05e7837cb5f801e8306571b42d3f562424a6a798eb",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/Morph-Games-Android-TV-0.59.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Android-TV-0.59.apk"
+    },
+    {
+      "file": "Morph-Games-Converter-2.2.exe",
+      "bytes": 28862151,
+      "sha256": "ab0e94a8285f27b8f7b6a90d5d32eff117b8c673cb3e4ceb17d5693f68206e30",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-2026-11-19/Morph-Games-Converter-2.2.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Converter-2.2.exe"
+    },
+    {
+      "file": "Morph-Games-Library-Server-1.0.exe",
+      "bytes": 14188370,
+      "sha256": "54e6a1eba3903a82e2b65cbd28692bc7549162c9fdfaac67b30aca108676c071",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-shared-library-online-test-2026-11-20/Morph-Games-Library-Server-1.0.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Library-Server-1.0.exe"
+    },
+    {
+      "file": "Morph-Games-Samsung-0.1.208-Device-Signing.wgt",
+      "bytes": 12937438,
+      "sha256": "2a4c6aa349a6707a524f83963b0f08185a97997af12a84518ddecb5610d7f702",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/Morph-Games-Samsung-0.1.208-Device-Signing.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Samsung-0.1.208-Device-Signing.wgt"
+    },
+    {
+      "file": "Morph-Games-Samsung-Modern-0.1.208-Device-Signing.wgt",
+      "bytes": 12032411,
+      "sha256": "18795c79168f0a33b0d32f868e3c0024b35f58a72925022a6d21a6e85e6225b1",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/Morph-Games-Samsung-Modern-0.1.208-Device-Signing.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Samsung-Modern-0.1.208-Device-Signing.wgt"
+    },
+    {
+      "file": "Morph-Games-Share-Android-0.1.9.apk",
+      "bytes": 377446,
+      "sha256": "550588a7f5acb77fe338efa1aa16abcaa7508dbeaa185c05c7357dc0d01dd126",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-2026-11-19-r3/Morph-Games-Share-Android-0.1.9.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Share-Android-0.1.9.apk"
+    },
+    {
+      "file": "Morph-Games-Windows-0.0.46.zip",
+      "bytes": 238777760,
+      "sha256": "af42731e46512b8d58c509bcd33cf8d8d9ae818a21beb09c58475866a9ab8887",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/Morph-Games-Windows-0.0.46.zip",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Games-Windows-0.0.46.zip"
+    },
+    {
+      "file": "Morph-IPTV-Android-TV-1.1.562.apk",
+      "bytes": 17196188,
+      "sha256": "9c27e62c3356990eca31458ffe29f21214eeb66a391073887f967ba77b55f8ef",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.562/Morph-IPTV-Android-TV-1.1.562.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-Android-TV-1.1.562.apk"
+    },
+    {
+      "file": "Morph-IPTV-LG-1.1.564.ipk",
+      "bytes": 6238176,
+      "sha256": "022223e946dee069369bc411ad9e01d3c99bd10b5be473f71e7c939d17706052",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-LG-1.1.564.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-LG-1.1.564.ipk"
+    },
+    {
+      "file": "Morph-IPTV-Legacy-1.1.558.apk",
+      "bytes": 496658,
+      "sha256": "4967db1fc0c60f0f218b094257a5037ec7fc2e3d9559992843b949d2d5462e20",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.558/Morph-IPTV-Legacy-1.1.558.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-Legacy-1.1.558.apk"
+    },
+    {
+      "file": "Morph-IPTV-Mac-1.1.564-universal.dmg",
+      "bytes": 244904503,
+      "sha256": "8bbfb77134b86e06f20457c244af5444d8ea35d51c47d1ed09e0acaaa7e08672",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-Mac-1.1.564-universal.dmg",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-Mac-1.1.564-universal.dmg"
+    },
+    {
+      "file": "Morph-IPTV-Mac-1.1.564-universal.zip",
+      "bytes": 237240287,
+      "sha256": "3c6b0ec8b7bb4f7640151bfa9f062da3e3e303355a4e7f9f22b3d625f4fedcca",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-Mac-1.1.564-universal.zip",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-Mac-1.1.564-universal.zip"
+    },
+    {
+      "file": "Morph-IPTV-PC-1.1.565-32bit-Setup.exe",
+      "bytes": 118532633,
+      "sha256": "7dc919cb252d74f2a1dab460748b4df5d5e803057e8cda96419e81655ec47237",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/windows-v1.1.565/Morph-IPTV-PC-1.1.565-32bit-Setup.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-PC-1.1.565-32bit-Setup.exe"
+    },
+    {
+      "file": "Morph-IPTV-PC-1.1.565-Setup.exe",
+      "bytes": 140398579,
+      "sha256": "a2fea9d4fae2e06bc2a92b68c99106eb1fbcb431915e2533ad455edbe84782f9",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/windows-v1.1.565/Morph-IPTV-PC-1.1.565-Setup.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-PC-1.1.565-Setup.exe"
+    },
+    {
+      "file": "Morph-IPTV-Tizen5-1.1.564.wgt",
+      "bytes": 6035875,
+      "sha256": "d82d382c7bb9090024b835b22ba4fb2733eb0739afc6c016fd210986894ba056",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-Tizen5-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-Tizen5-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-IPTV-tizen2-1.1.564.wgt",
+      "bytes": 5822188,
+      "sha256": "5ad62e45ff5722bb06c7ddc6c8d35f699571c0eddf5a9d530e250904f577e68e",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-tizen2-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-tizen2-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-IPTV-tizen3-1.1.564.wgt",
+      "bytes": 6168001,
+      "sha256": "5027b592a1a69ff23693e5bdacb48de54f000a8d290b4068ed990e0862b51fa0",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-tizen3-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-tizen3-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-IPTV-tizen4-1.1.564.wgt",
+      "bytes": 6168009,
+      "sha256": "9a3dacf2b6675898352258020a791832d74432cd47e633a1912fe6bc623e0e30",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-IPTV-tizen4-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-IPTV-tizen4-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-Launcher-Android-TV-1.1.562.apk",
+      "bytes": 26466907,
+      "sha256": "accbcf8604058921ab76bdec951b3c63fe987e2aa6ce2e00c803c89f7f83e307",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.562/Morph-Launcher-Android-TV-1.1.562.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-Android-TV-1.1.562.apk"
+    },
+    {
+      "file": "Morph-Launcher-LG-1.1.564.ipk",
+      "bytes": 15012108,
+      "sha256": "9f66b9099049fa3e63fbbe9837fbd1958b67f6a19b4b2dc3f4dd8ee53350a42b",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-Launcher-LG-1.1.564.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-LG-1.1.564.ipk"
+    },
+    {
+      "file": "Morph-Launcher-Mac-1.1.564-universal.dmg",
+      "bytes": 246779960,
+      "sha256": "06e4c67a0b248a815163edf0ba07d203b11dacd5302a63d8bc65b034b443bb3e",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-Launcher-Mac-1.1.564-universal.dmg",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-Mac-1.1.564-universal.dmg"
+    },
+    {
+      "file": "Morph-Launcher-Mac-1.1.564-universal.zip",
+      "bytes": 239099123,
+      "sha256": "897c76141e0de222cee28583a464e78a814305d4369cf92dd5553d7507162ff8",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-Launcher-Mac-1.1.564-universal.zip",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-Mac-1.1.564-universal.zip"
+    },
+    {
+      "file": "Morph-Launcher-PC-1.1.565-32bit-Setup.exe",
+      "bytes": 118532876,
+      "sha256": "d59eec1bc58c5ac3594a2afba88e15f48acc1f57402cd407d283bb1537d9defb",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/windows-v1.1.565/Morph-Launcher-PC-1.1.565-32bit-Setup.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-PC-1.1.565-32bit-Setup.exe"
+    },
+    {
+      "file": "Morph-Launcher-PC-1.1.565-Setup.exe",
+      "bytes": 140398708,
+      "sha256": "8435dd7ff987574c0f11a36567a677d56cc6d428ee17a3e4a56f6c916c3c8feb",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/windows-v1.1.565/Morph-Launcher-PC-1.1.565-Setup.exe",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-PC-1.1.565-Setup.exe"
+    },
+    {
+      "file": "Morph-Launcher-Tizen5-1.1.564.wgt",
+      "bytes": 15449460,
+      "sha256": "b86ee979bdc5e77b9a1f9e3ae6afe06a1d03f0759cde0724eee84e0626c6681e",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-Launcher-Tizen5-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-Launcher-Tizen5-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-TV-Install-Kit-1.1.321.zip",
+      "bytes": 101620820,
+      "sha256": "1fb45322f9b586beadcec6534e5aee2dbf6bfc954643175d92322033e6e41d30",
+      "sourceUrl": "https://morph-tv.com/Morph-TV-Install-Kit-1.1.321.zip",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Install-Kit-1.1.321.zip"
+    },
+    {
+      "file": "Morph-TV-Legacy-1.1.558.apk",
+      "bytes": 472082,
+      "sha256": "57d7dbf54a1c880121cbc6fb4601f5e59a774203d474b482e72019b0ca23e1b3",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.558/Morph-TV-Legacy-1.1.558.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Legacy-1.1.558.apk"
+    },
+    {
+      "file": "Morph-TV-Mobile-1.1.573-Integrated.apk",
+      "bytes": 89098760,
+      "sha256": "8cf50048ca8e23934b48c6af3e32036f87b0b96487225f45fe875e1f4b0ec940",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/Morph-TV-Mobile-1.1.573-Integrated.apk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Mobile-1.1.573-Integrated.apk"
+    },
+    {
+      "file": "Morph-TV-Samsung-Tizen2-1.1.564.wgt",
+      "bytes": 14151760,
+      "sha256": "0970701b21ce67ae75effea95fb556baf46f149f9fb07ae68be0d65db10a77eb",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-TV-Samsung-Tizen2-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Samsung-Tizen2-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-TV-Samsung-Tizen2-Lite-1.1.347.wgt",
+      "bytes": 767029,
+      "sha256": "15e462980308f6da74f47e946da0513d079cb2f587b9ec15f89dcf4413a6d070",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.347/Morph-TV-Samsung-Tizen2-Lite-1.1.347.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Samsung-Tizen2-Lite-1.1.347.wgt"
+    },
+    {
+      "file": "Morph-TV-Samsung-Tizen3-1.1.347.wgt",
+      "bytes": 14096490,
+      "sha256": "01b1dd4ab4b992ae0fc3d0463f0b8a1cc3166524f11edae25c37916e8405493a",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/v1.1.347/Morph-TV-Samsung-Tizen3-1.1.347.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Samsung-Tizen3-1.1.347.wgt"
+    },
+    {
+      "file": "Morph-TV-Samsung-Tizen3-1.1.564.wgt",
+      "bytes": 14153915,
+      "sha256": "715a7d6d952bd9d61cf6f1be8dd151f862fbf42915c48be53ccad54905183b53",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-TV-Samsung-Tizen3-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Samsung-Tizen3-1.1.564.wgt"
+    },
+    {
+      "file": "Morph-TV-Samsung-Tizen4-1.1.564.wgt",
+      "bytes": 14062607,
+      "sha256": "e9788f6ae8b5c82492a22e946c46dac527104d6d58411c1a7b049e6fadfaa2de",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/desktop-v1.1.564/Morph-TV-Samsung-Tizen4-1.1.564.wgt",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/Morph-TV-Samsung-Tizen4-1.1.564.wgt"
+    },
+    {
+      "file": "local.morph.games.native_0.1.17_arm.ipk",
+      "bytes": 5482016,
+      "sha256": "3b9ed02240d2a10cfe26ae6616d3ee773f61eb072934aa1d7874b38c0b8941a0",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/local.morph.games.native_0.1.17_arm.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/local.morph.games.native_0.1.17_arm.ipk"
+    },
+    {
+      "file": "local.morph.games_0.1.110_all.ipk",
+      "bytes": 11361982,
+      "sha256": "547bfe4d872533dbf99de46aa12aef99db725ed7fab9c1e242d5fd4725c68852",
+      "sourceUrl": "https://github.com/karim-shousha/tv-morph/releases/download/morph-games-unified-2026-11-20/local.morph.games_0.1.110_all.ipk",
+      "url": "https://github.com/karim-shousha/morph-installers/releases/download/current-installers-2026-11-21/local.morph.games_0.1.110_all.ipk"
+    }
+  ]
+}
